@@ -1,0 +1,15 @@
+/Users/pavelipro/Desktop/MPV/Itog/Itog/bin/Debug/net6.0/Itog
+/Users/pavelipro/Desktop/MPV/Itog/Itog/bin/Debug/net6.0/Itog.deps.json
+/Users/pavelipro/Desktop/MPV/Itog/Itog/bin/Debug/net6.0/Itog.runtimeconfig.json
+/Users/pavelipro/Desktop/MPV/Itog/Itog/bin/Debug/net6.0/Itog.dll
+/Users/pavelipro/Desktop/MPV/Itog/Itog/bin/Debug/net6.0/Itog.pdb
+/Users/pavelipro/Desktop/MPV/Itog/Itog/obj/Debug/net6.0/Itog.csproj.AssemblyReference.cache
+/Users/pavelipro/Desktop/MPV/Itog/Itog/obj/Debug/net6.0/Itog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelipro/Desktop/MPV/Itog/Itog/obj/Debug/net6.0/Itog.AssemblyInfoInputs.cache
+/Users/pavelipro/Desktop/MPV/Itog/Itog/obj/Debug/net6.0/Itog.AssemblyInfo.cs
+/Users/pavelipro/Desktop/MPV/Itog/Itog/obj/Debug/net6.0/Itog.csproj.CoreCompileInputs.cache
+/Users/pavelipro/Desktop/MPV/Itog/Itog/obj/Debug/net6.0/Itog.dll
+/Users/pavelipro/Desktop/MPV/Itog/Itog/obj/Debug/net6.0/refint/Itog.dll
+/Users/pavelipro/Desktop/MPV/Itog/Itog/obj/Debug/net6.0/Itog.pdb
+/Users/pavelipro/Desktop/MPV/Itog/Itog/obj/Debug/net6.0/Itog.genruntimeconfig.cache
+/Users/pavelipro/Desktop/MPV/Itog/Itog/obj/Debug/net6.0/ref/Itog.dll
